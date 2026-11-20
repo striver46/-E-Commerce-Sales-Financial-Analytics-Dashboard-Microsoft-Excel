@@ -114,6 +114,5 @@ Ek **end-to-end Excel dashboard** jo e-commerce sales data ko analyze karke busi
 [![Email] : amannakhate111@gmail.com
 <div align="center">
 
-⭐ *Agar project pasand aaya ho to repo ko star zaroor karein!* ⭐
 
 </div>
